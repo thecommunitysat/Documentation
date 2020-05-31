@@ -26,7 +26,7 @@ A particular attention is put on the will to keep the hierarchy as flat as possi
 Project Mission is defined as the WP aggregation. 
 The mission consists of the operation of two 0.5U cubesats to measure the effectiveness of a deorbiting system and take measurements of the LEO environment. 
 
-### Decisions 
+## Decisions 
 
 All decisions relating to the project must be taken as transparently and democratically as possible. 
 
