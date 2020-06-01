@@ -1,11 +1,45 @@
 # List of commonly used acronyms and abbreviations
 
-EPS: External Power Supply
+ACS: attitude control system
+
+ADCS: attitude control and determination system
+
+ADS: attitude determination system
+
+CAD: computer aided design
+
+CAE: computer aided engineering
+
+C&DH: command and data handling
+
+CG: center of gravity
+
+EPS: electric power supply
+
+FEA: finite element analysis
+
+FOD: foreign object debris
+
+FOV: field of view
+
+ICD: interface control document
+
+OAP: Orbit Average Power
 
 OBC: OnBoard Computer
 
-ADCS: Automated Data Caputering System
+PL-A: payload A
 
-FEM: Finite element method
+PL-B: payload B
 
-OAP: Orbit Average Power
+RBF: remove before flight
+
+ROA: record of assembly
+
+SC: spacecraft
+
+SP: solar panel
+
+SSC: Space Science Center
+
+SSO: Sun Synchronous Orbit
