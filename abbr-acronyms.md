@@ -7,3 +7,5 @@ OBC: OnBoard Computer
 ADCS: Automated Data Caputering System
 
 FEM: Finite element method
+
+OAP: Orbit Average Power
