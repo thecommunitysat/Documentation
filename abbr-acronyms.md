@@ -14,6 +14,8 @@ C&DH: command and data handling
 
 CG: center of gravity
 
+EDT: electrodynamic tether
+
 EPS: electric power supply
 
 FEA: finite element analysis
